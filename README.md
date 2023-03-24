@@ -5,7 +5,7 @@
 - Currently, I'm learning about causal inference and Bayesian statistics 🎲. 
 - I'm inspired by cool visualizations and strive to explain complex ideas through simple visual language 📈. 
 
-I curate interesting projects on my stars (mostly in Python), which I've categorized into four areas of interest:
+I curate interesting projects on my [stars](https://github.com/kataev?tab=stars) (mostly in Python), which I've categorized into four areas of interest:
 - 🗄 databases (my favorites)
 - 🙆‍♂️ modeling (ML and NLP)
 - 📈 visualization (rare and cool graphs)
