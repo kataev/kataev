@@ -6,7 +6,7 @@
 - I'm inspired by cool visualizations and strive to explain complex ideas through simple visual language 📈. 
 
 I curate interesting projects on my [stars page](https://github.com/kataev?tab=stars), which I've categorized into four areas of interest (mostly in Python):
-- 🗄 databases (my favorites)
+- 🗄 databases (Tools and algorithms)
 - 🙆‍♂️ modeling (ML and NLP)
 - 📈 visualization (rare and cool graphs)
 - ✨ inspiration (interesting projects that I'm excited to apply)"
