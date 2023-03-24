@@ -1,6 +1,6 @@
 ### Hello, I'm Denis Kataev, a Python developer 🐍, manager 🎯, and public speaker 🗣️. 
 
-- I have contributed to open source projects, such as the flake8 module for documentation and the pytest module for grp testing. 
+- I have created some open source projects, such as the [flake8](https://github.com/flake8-docs/flake8-rst) module for documentation and the pytest module for [grps](https://github.com/kataev/pytest-grpc) testing. 
 - I enjoy working with databases and database tools, such as the SQLAlchemy ORM. 
 - Currently, I'm learning about causal inference and Bayesian statistics 🎲. 
 - I'm inspired by cool visualizations and strive to explain complex ideas through simple visual language 📈. 
