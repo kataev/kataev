@@ -9,7 +9,7 @@ I curate interesting projects on my [stars page](https://github.com/kataev?tab=s
 - 🗄 databases (tools and algorithms)
 - 🙆‍♂️ modeling (ML and NLP)
 - 📈 visualization (rare and cool graphs)
-- ✨ inspiration (interesting projects that I'm excited to apply)"
+- ✨ inspiration (interesting projects that I'm excited to apply)
 
 If you enjoyed this, feel free to follow me here to stay updated on new stars!
 - You can watch my talks in Russian on [YouTube](https://www.youtube.com/playlist?list=PL_blwmWQZXPL0YRH5xDPrOtYJ4qiU2ASb). 
